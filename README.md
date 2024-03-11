@@ -1,4 +1,4 @@
-# Germina
+# Germina - JS Assíncrono (AJAX)
 
 Germina é um sistema de questionário assíncrono desenvolvido para coletar respostas de usuários de forma interativa e dinâmica. Este sistema permite criar questionários com múltiplas perguntas e opções de resposta, onde apenas a pergunta muda ao selecionar uma resposta, mantendo o restante da página estático.
 

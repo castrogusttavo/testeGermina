@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Qual é a capital do Brasil?",
+        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador", "Belém"]
+    },
+    {
+        "question": "Qual estado tem o maior PIB'?",
+        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador", "Belém"]
+    }
+]

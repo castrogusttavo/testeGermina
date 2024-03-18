@@ -1,26 +1,32 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Germina - Questionário IDs</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-</head>
-<body>
+  </head>
+  <body>
     <div id="question-container">
-        <div id="question"></div>
+      <div id="question"></div>
+      <div id="subquestion"></div>
 
-        <form action="" id="answer-form">
-            <input type="radio" name="answer" value="1">Rio de Janeiro <br>
-            <input type="radio" name="answer" value="2">Brasília <br>
-            <input type="radio" name="answer" value="3">São Paulo <br>
-            <input type="radio" name="answer" value="4">Salvador <br>
-            <input type="radio" name="answer" value="5">Belém <br>
-            <button type="submit">Próxima Pergunta</button>
+      <div class="form-container">
+        <form action="" id="answer-form" class="answerForm-yep">
+          <button type="submit">Próxima Pergunta</button>
+          <button type="submit">Próxima Pergunta</button>
+          <button type="submit">Próxima Pergunta</button>
+          <button type="submit">Próxima Pergunta</button>
         </form>
+
+        <form action="" id="answer-form" class="answerForm-not">
+          <button type="submit">Próxima Pergunta</button>
+          <button type="submit">Próxima Pergunta</button>
+        </form>
+      </div>
     </div>
 
     <script src="js/script.js" defer></script>
-</body>
+  </body>
 </html>

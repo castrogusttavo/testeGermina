@@ -3,6 +3,7 @@
     $json = file_get_contents('./question.json');
     //Decodificar o JSON em um array associativo
     $questions = json_decode($json, true);
+    $subquestion = json_decode($json, true);
 
     //Veriricar se o parâmetro question_number foi enviado
     if(isset($_POST['question_number'])) {

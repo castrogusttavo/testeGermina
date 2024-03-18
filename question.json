@@ -1,10 +1,225 @@
 [
     {
-        "question": "Qual é a capital do Brasil?",
-        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador", "Belém"]
+        "question":"1) No dia a dia eu sou cuidadoso com a divulgação de informações e conteúdos obtidos online que se relacionam a mim, aos meus familiares e às outras pessoas.",
+        "subquestion": "-- Eu costumo me questionar se uma informação obtida online é adequada, por exemplo se é necessário adaptar a linguagem técnica e formal, se devo selecionar o que será enviado etc. Também me preocupo se quem vai recebê-la pode de fato ter acesso à informação, por exemplo."
     },
     {
-        "question": "Qual estado tem o maior PIB'?",
-        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador", "Belém"]
+        "question": "2) Eu sou capaz de oferecer uma experiência com foco no usuário nas minhas criações digitais, priorizando a facilidade de uso e incluindo elementos visuais e funcionais, para uso pessoal ou no trabalho.",
+        "subquestion": "-- Uma experiência com foco no usuário é aquela que possibilita a qualquer pessoa a usar facilmente uma criação digital - por exemplo sites, sistemas, aplicativos, vídeos, relatórios, manuais etc - independente da idade ou de limitações."
+    },
+    {
+        "question": "3) Eu me sinto confiante em seguir carreiras inovadoras na área digital.",
+        "subquestion": "-- Eu me sinto confiante, por exemplo, em atuar profissionalmente em carreiras relacionadas às tecnologias inovadoras, como internet das coisas, automação, robotização, biotelemetria, dispositivos móveis etc."
+    },
+    {
+        "question": "4) No dia a dia eu sou cuidadoso com a divulgação de informações e conteúdos obtidos online que se relacionam a mim, aos meus familiares e às outras pessoas.",
+        "subquestion": "-- Eu costumo me questionar se uma informação obtida online é adequada, por exemplo se é necessário adaptar a linguagem técnica e formal, se devo selecionar o que será enviado etc. Também me preocupo se quem vai recebê-la pode de fato ter acesso à informação, por exemplo."
+    },
+    {
+        "question": "5) Eu compreendo conceitos de análise de dados, estatística e matemática que são aplicados a programação de computadores, inteligência artificial e outras soluções tecnológicas para minhas atividades pessoais ou no trabalho.",
+        "subquestion": "-- A criação de soluções computacionais e de inteligência artificial requer treinar um computador a solucionar problemas e para isto são usados diversos métodos computacionais, de análise de dados, estatísticos e matemáticos em sua programação."
+    },
+    {
+        "question": "6) Eu sou capaz de usar efetivamente a internet/web no trabalho ou no lazer para buscar informação e conteúdo online relacionados às atividades rotineiras.",
+        "subquestion": "-- Eu sei pesquisar na internet as informações necessárias para, por exemplo, tirar uma dúvida, consultar um documento ou checar uma informação ou notícia, usando sites de busca acadêmica ou outros buscadores gerais."
+    },
+    {
+        "question": "7) Eu tenho capacidade de usar o computador e outros equipamentos de informática no meu trabalho ou no lazer.",
+        "subquestion": "-- Eu sei usar diferentes equipamentos, como computador, notebook, tablet, celular etc. para atividades gerais no trabalho ou para o lazer."
+    },
+    {
+        "question": "8) Eu sei como alterar minha senha de acesso e outros requisitos de segurança, quando permitido, nos sistemas e serviços online de uso pessoal ou do trabalho.",
+        "subquestion": "-- Quando permitido e necessário eu sei como alterar, por exemplo, senha de acesso do meu e-mail e configurar segurança em 2 camadas, nos sites de plano de saúde, em sites de compras, em sistemas governamentais de trânsito ou de outros serviços do cidadão etc."
+    },
+    {
+        "question": "9) Eu considero importante usar a tecnologia nas atividades pessoais e no trabalho para colaborar com as pessoas.",
+        "subquestion": "-- No trabalho ou na vida pessoal eu considero importante usar a tecnologia e apoiar as outras pessoas, por exemplo, elaborando cronogramas que envolvam as pessoas e os recursos computacionais, pesquisando novas soluções e inovações que possam ser aplicadas, ensinando as maneiras mais eficientes de realizar as atividades por meio da tecnologia etc."
+    },
+    {
+        "question": "10) Eu sou capaz de usar técnicas computacionais e a inteligência artificial para aumentar minha própria inteligência relacionada às minhas atividades pessoais ou no trabalho.",
+        "subquestion": "-- Eu consigo, por exemplo, usar técnicas computacionais para identificar o perfil de pessoas em redes sociais, usar algoritmos para avaliar a previsão de preço de um produto, preparar relatórios e gráficos que indiquem as melhores práticas esportivas etc."
+    },    {
+        "question": "11) No trabalho ou no lazer eu sou capaz de apresentar tendências e padrões a partir de dados que gerem novas ideias estratégicas.",
+        "subquestion": "-- Eu sei como, por exemplo, criar apresentação com gráficos que indiquem tendências e descobertas vindas dos dados referentes a algum tema, que auxiliem nas minhas atividades pessoais ou de outras pessoas etc."
+    },
+    {
+        "question": "12) Eu sou capaz de preparar minhas criações digitais para serem usadas em diferentes equipamentos, plataformas e sistemas operacionais nas atividades pessoais ou no trabalho.",
+        "subquestion": "-- Um site, função ou aplicativo pode ser configurado para ser usado em computadores com Windows, Linux, MacOS etc. ou em celulares Android, iPhone etc. Uma criação digital torna-se mais acessível se puder ser usada seja qual for o equipamento disponível no trabalho."
+    },
+    {
+        "question": "13) Eu demonstro facilidade e motivação para usar a tecnologia, seja por iniciativa própria, seja por saber como, seja por determinação da chefia no trabalho.",
+        "subquestion": "-- Eu estou disponível para usar a tecnologia, com facilidade e motivação, por exemplo, para auxiliar na instalação de aplicativos e sistemas, para configurar ambientes digitais em computadores ou em outros equipamentos, para consultar manuais e especificações de equipamentos digitais, para buscar soluções digitais práticas para beneficiar as atividades no trabalho ou pessoais."
+    },
+    {
+        "question": "14) Eu sou capaz de construir conhecimento a partir da análise de dados das minhas atividades pessoais ou do trabalho.",
+        "subquestion": "-- Após analisar os dados, por exemplo, sobre gastos pessoais ou custos do trabalho eu consigo descrever a situação e elaborar uma apresentação com orientações e ações de melhorias; consigo compreender melhor uma situação a partir da análise dos dados relacionados etc."
+    },
+    {
+        "question": "15) No trabalho ou no lazer eu sou capaz de identificar e usar ferramentas de dados e tecnologias para solucionar problemas.",
+        "subquestion": "-- Eu consigo, por exemplo, usar softwares para solucionar problemas como planilhas eletrônicas ou outros de análise de dados (Excel, PowerBI, Tableau Public, R Studio, SPSS, Statistica, Jamovi etc.) , editores de texto (Word, OpenOffice etc.) e outros (banco de dados, gerador de relatórios etc.); consigo propor, configurar ou usar tecnologias que colaboram na solução de problemas etc."
+    },
+    {
+        "question": "16) Eu sou capaz de implantar, organizar, criar, adaptar e compartilhar conhecimento, conteúdo digital e tecnologia nas atividades pessoais e do trabalho.",
+        "subquestion": "-- Em um processo de solução de problemas pessoais ou no trabalho eu consigo agir de forma estruturada desde a conceituação da situação até o compartilhamento das soluções desenhadas; consigo usar conteúdo digital de maneira útil nas ativdiades pessoais ou com os colegas; consigo implantar tecnologias etc."
+    },
+    {
+        "question": "17) Eu compreendo a estrutura básica das diferentes mídias digitais usadas nos computadores, celulares e outros equipamentos de informática.",
+        "subquestion": "-- Eu compreendo a estrutura dos diferentes arquivos digitais, por exemplo, arquivos de texto .DOC, planilhas eletrônicas .XLS, relatórios, documentos e exames em .PDF, arquivos exportados de bancos de dados .SQL, imagens em .JPG etc. Também compreendo a estrutura de dispositivos de mídias como CD-ROM, DVD-ROM, pendrive, discos USB etc."
+    },
+    {
+        "question": "18) Eu sou capaz de ajustar e personalizar ambientes digitais para atender às minhas necessidades pessoais, de familiares ou de colegas do trabalho.",
+        "subquestion": "-- Eu consigo organizar informação digital nos computadores do trabalho ou de casa, por exemplo, separar arquivos em pastas e conteúdos pessoais e profissionais; adaptar computadores e sistemas para minhas necessidades ou de colegas; personalizar a geração de relatórios e envio de dados etc."
+    },
+    {
+        "question": "19) Eu sou capaz de analisar componentes de softwares e os reutilizar, melhorar, reconfigurar ou integrar para criar soluções para minhas necessidades pessoais ou do meu trabalho.",
+        "subquestion": "-- Eu tenho capacidade de usar componentes de software para desenvolver, por exemplo, um site, sistema ou aplicativo integrando as partes, vindo de plataformas abertas (GitHub etc.) ou de sistemas comerciais, para apoiar minhas necessidades pessoais ou do meu trabalho; eu sei como integrar diferentes soluções computacionais para facilitar atividades etc."
+    },
+    {
+        "question": "20) Eu entendo o conceito de criação de cadastro e inserção de dados pessoais ou de familiares em sistemas e sites online.",
+        "subquestion": "-- Eu compreendo o conceito e o processo de cadastro, por exemplo, de pessoas em sites de compra, para lançamento de imposto de renda, de agendamentos em planos de saúde, para registro em sistemas governamentais etc."
+    },
+    {
+        "question": "21) Eu tenho habilidade de raciocinar computacionalmente, selecionar e aplicar algoritmos, interpretar dados e usar métodos avançados para obter os resultados desejados no trabalho ou em atividades pessoais.",
+        "subquestion": "-- Solucionar problemas envolve diferentes etapas e eu sou capaz de atuar em todas elas aplicando técnicas computacionais, de forma individual ou em colaboração com outras pessoas."
+    },
+    {
+        "question": "22) No trabalho ou no lazer eu sei como alterar dados cadastrais, meus e de familiares, quando permitido, em sistemas e serviços online.",
+        "subquestion": "-- Eu sei como alterar dados cadastrais meus e de outras pessoas, quando permitido, por exemplo em registros de sites de compras, em fichas de saúde, em cadastros governamentais etc."
+    },
+    {
+        "question": "23) Eu compreendo os motivos para que eu, uma organização ou uma empresa crie mensagens e conteúdos eletrônicos em diferentes mídias digitais.",
+        "subquestion": "-- Eu entendo os motivos para que eu ou uma organização/empresa use, por exemplo, o e-mail institucional, uma rede social ou mensagem interna no sistema oficial como mídia digital em função do conteúdo/mensagem que precisa ser enviada às pessoas; também em função do impacto que se deseja, da abrangência da mensagem etc."
+    },
+    {
+        "question": "24) Eu compreendo como o uso da mídia digital influencia na coleta da informação e na gestão do conhecimento no meu trabalho e no lazer.",
+        "subquestion": "-- Eu compreendo que diferentes mídias digitais são mais adequadas que outras para coletar informação e para gerenciar o conhecimento, por exemplo, distribuir um relatório .PDF possibilita incorporar textos, imagens, gráficos de maneira íntegra; para coletar dados as planilhas eletrônicas .XLS podem auxiliar mas o controle é precário quando comparada a uma interface programada em um software especializado; serviços em nuvem podem auxiliar a muitas pessoas lançarem e consultarem dados simultaneamente, mas a informação fica fora do sistema oficial do serviço etc."
+    },
+    {
+        "question": "25) Eu sou capaz de comunicar para outras pessoas as limitações no uso de dados e notícias, mostrando quando as análises parecem manipuladas para gerar uma narrativa limitada ou falsa.",
+        "subquestion": "-- Eu sou capaz, por exemplo, de elaborar apresentação que mostre uma narrativa crítica das descobertas e as limitações encontradas a partir de dados ou notícias, que podem influenciar um entendimento errado de uma situação no trabalho ou na vida das pessoas."
+    },
+    {
+        "question": "26) Eu sou capaz de criar e executar criações digitais com base nas necessidades e na praticidade, eficiência e funcionalidade das minhas atividades pessoais e do meu trabalho.",
+        "subquestion": "-- Eu consigo, por exemplo, criar e executar uma arte digital para ser usada no Instagram, Facebook ou Linkedin para comunicar uma reunião, evento ou notícia do trabalho; consigo criar vídeos para comunicar os colegas ou familiares de alguma informação importante; consigo gerar um relatório a ser compartilhado em site, sistema ou por e-mail para informar sobre uma situação etc."
+    },
+    {
+        "question": "27) Eu compreendo que técnicas computacionais e a inteligência artificial podem conter viéses nos dados de treinamento, nos algoritmos ou de seus programadores, gerando influência nos resultados.",
+        "subquestion": "-- Eu entendo que a programação de sistemas de apoio a decisão, por exemplo, para sugerir um produto num site, podem conter a influência de seus programadores e dos dados usados no treinamento, causando uma influência nos resultados e que podem interferir na decisão que será tomada."
+    },
+    {
+        "question": "28) Eu desenvolvo processos eficientes e estáveis para coletar, armazenar, transformar e integrar dados nos vários estágios da análise para minhas atividades pessoais ou no trabalho.",
+        "subquestion": "-- Eu consigo desenvolver processos regulares e eficientes para coletar dados e analisá-los, por exemplo, usando planilhas eletrônicas, banco de dados ou uma plataforma específica."
+    },
+    {
+        "question": "29) Eu sou capaz de desenvolver aplicativos, sistemas ou sites segundo especificações, padrões de projeto e de segurança para facilitar minhas atividades pessoais ou do trabalho.",
+        "subquestion": "-- Eu consigo, por exemplo, criar um site para divulgar notícias respeitando requisitos de segurança descritos pela Lei Geral de Proteção de Dados Pessoais (LGPD) para proteger dados dos usuários ou colegas de trabalho; criar softwares ou scripts para automatizar tarefas repetitivas e colaborar com outras pessoas etc."
+    },
+    {
+        "question": "30) Eu considero fundamental verificar a credibilidade da fonte da informação e de conteúdos digitais.",
+        "subquestion": "-- Eu realizo ações para conferir a credibilidade de fonte de uma informação, por exemplo, realizo pesquisas para identificar a reputação dos sites usados; consulto sites de governo, de sociedades ou empresas para localizar referências; busco documentos oficiais que atestem a fonte como tendo credibilidade; confiro se os autores de uma informação ou notícia são reconhecidos publicamente etc."
+    },
+    {
+        "question": "31) Eu sou capaz de identificar para uma atividade, no trabalho ou no lazer, quais são as informações necessárias e os conteúdos importantes.",
+        "subquestion": "-- Eu compreendo o que é necessário e importante de informação/conteúdo sobre uma pessoa ou tema, no trabalho ou lazer, por exemplo para escrever um relatório de uma ocorrência no trabalho, para uma identificação para outra empresa, no currículo profissional, quando me cadastro num site de compras etc."
+    },
+    {
+        "question": "32) Eu entendo os conceitos e as técnicas de criação de conteúdo digital e seus possíveis usos no trabalho e no lazer.",
+        "subquestion": "-- Eu entendo os conceitos e técnicas, por exemplo, para elaborar em formato digital roteiros, dicas e listas de atividades que ajudem a solucionar problemas no serviço ou em atividades pessoais, que facilitem meu dia a dia, que colaborem com os familiares etc."
+    },
+    {
+        "question": "33) Eu sou capaz de avaliar criticamente no trabalho ou no lazer as informaçoes e conteúdos digitais relativos a mim, aos meus familiares e às outras pessoas.",
+        "subquestion": "-- No dia a dia eu sou crítico e criterioso ao ler informação relacionada a mim ou às outras pessoas, por exemplo, ao consultar uma notícia ou artigo científico para compreender uma situação, ao ler um histórico num serviço online ou de compras, ao comparar resultados de exames, ao assistir a um vídeo online etc."
+    },
+    {
+        "question": "34) Eu conheço os conceitos por detrás de algoritmos, estratégias e programação para realizar modelagem digital e criar soluções no meu trabalho ou para minhas atividades pessoais.",
+        "subquestion": "-- Eu compreendo os conceitos de programação e algoritmos que estão por trás, por exemplo, de soluções no trabalho com uso de softwares; da elaboração de scripts/comandos de programação que executem tarefas digitais repetitivas; de funções em sites que geram relatórios ou alguma análise; da programação de planilhas eletrônicas ou editores de texto para envio de mala direta ou outras funções automatizadas etc."
+    },
+    {
+        "question": "35) Eu sou capaz de identificar necessidades e organizar conhecimentos em diferentes temas para ajudar a tomar decisões e cooperar com outras pessoas.",
+        "subquestion": "-- No dia a dia ou no trabalho, por exemplo, eu consigo entender os problemas, trazer conhecimentos de diferentes áreas, pensar em soluções, ajudar na tomada de decisão e estabelecer um processo de cooperação com as pessoas."
+    },
+    {
+        "question": "36) Eu me considero proativo ao aplicar meu conhecimento de análise de dados e inteligência artificial para avaliar se sistemas que uso no lazer e no trabalho funcionam corretamente e alinhados às minhas demandas e à legislação.",
+        "subquestion": "-- Eu me considero proativo, por exemplo, ao usar meu conhecimento de banco de dados, análise e técnicas avançadas para avaliar se os sistemas que uso no trabalho ou lazer, ou mesmo os softwares e aplicativos de apoio, funcionam adequadamente; se o funcionamento respeita a legislaçãodos; se estão alinhados ao cenário digital do serviço usado etc."
+    },
+    {
+        "question": "37) Eu tenho habilidade de usar o computador e outros equipamentos de informática para realizar pesquisas e atividades relacionadas ao meu trabalho ou à minha atividade pessoal.",
+        "subquestion": "-- Eu consigo usar diferentes equipamentos, como computador, notebook, tablet, celular etc. para buscar informação, por exemplo, sobre produtos que quero comprar, notícias, interagir em redes sociais, pagar contas bancárias etc."
+    },
+    {
+        "question": "38) Eu considero importante solucionar casos de erros/equívocos nos dados para que o registro eletrônico em sistemas governamentais ou comerciais não fique incorreto ou bloqueado.",
+        "subquestion": "-- Tendo ou não permissão de corrigir, eu entendo a importância em buscar uma solução para um erro/equívoco nos dados em sistemas governamentais ou comerciais, de planos de saúde, de cadastros de trabalho, para evitar transtornos e enganos em atendimentos, mesmo que talvez seja necessário acionar área técnica dos sistemas."
+    },
+    {
+        "question": "39) Eu sou capaz de compartilhar informações e conhecimentos de maneira efetiva no trabalho ou no lazer.",
+        "subquestion": "-- Eu consigo, por exemplo, escrever textos objetivos para colegas, criar roteiros que possibilitem executar tarefas, criar apresentações com conteúdo objetivo e claro para eventos, reuniões ou treinamentos etc."
+    },
+    {
+        "question": "40) Eu me sinto motivado a usar tecnologia nas minhas ativdades pessoais e no trabalho.",
+        "subquestion": "-- Eu me sinto motivado, por exemplo, a experimentar usar tecnologias para minhas atividades, a buscar notícias sobre lançamentos de novos produtos, pesquisar sobre o funcionamento de novas tecnologias, conversar com outras pessoas sobre tecnologia e inovação etc."
+    },
+    {
+        "question": "41) Eu me considero cuidadoso com os meus dados e de familiares em sistemas comerciais e no trabalho.",
+        "subquestion": "-- Quando tenho permissão de acesso eu sou cuidadoso, por exemplo, ao ler dados em sistemas comerciais e governamentais; compreendo sobre a confidencialidade ao acessar registros de indivíduos, assim como ao trocar informação com outras pessoas etc."
+    },
+    {
+        "question": "42) Eu sou capaz de usar inteligência artificial ou outras técnicas avançadas para melhorar a eficiência nos processos e otimizar o desempenho das minhas atividades profissionais ou pessoais.",
+        "subquestion": "-- Eu consigo usar inteligência artificial e outras técnicas, por exemplo, para descobrir novas áreas importantes para minha educação permanente, para melhorar a rotina de trabalho, para melhorar minha saúde, para aprimorar meu lazer, para me ajudar com compras online, para selecionar melhor as notícias que leio etc."
+    },
+    {
+        "question": "43) Eu me sinto confiante em seguir carreiras analíticas, com uso de inteligência artificial e outras técnicas computacionais avançadas, na área digital.",
+        "subquestion": "-- Eu me sinto confiante, por exemplo, em atuar profissionalmente em carreiras relacionadas às análises baseadas em inteligência artificial e outras técnicas avançadas de programação, estudando novos softwares de ciência de dados e maneiras de representar os resultados, buscando cursos e materiais relacionados etc."
+    },
+    {
+        "question": "44) No trabalho ou no lazer eu sou capaz de ler, gerenciar e analisar dados de diferentes fontes e preparar relatórios/informação de fácil acesso e úteis para outras pessoas.",
+        "subquestion": "-- Eu consigo, por exemplo, usar planilha eletrônica e gráficos para produzir um indicador, uma análise ou uma estatística; juntar dados de diferentes sistemas ou sites; criar uma apresentação para mostrar resultados; compartilhar de maneira simples relatórios/informação por meio de nuvem ou num servidor de arquivos ou num site etc."
+    },
+    {
+        "question": "45) Eu sou capaz de comunicar o significado dos dados, pessoais ou relativos ao meu trabalho, a outras pessoas usando ferramentas de visualização de dados, gráficos, tendências etc.",
+        "subquestion": "-- Eu consigo, por exemplo, criar apresentação em PowerPoint com gráficos bem elaborados sobre a quantidade de itens de uma coleção, elaborar um relatório eletrônico com agrupamentos de custos nas atividades de trabalho etc."
+    },
+    {
+        "question": "46) Eu sou capaz de resumir as informações e outros conteúdos encontrados online.",
+        "subquestion": "-- Eu sou capaz, por exemplo, de escolher o que apresentar para um colega de trabalho das informações obtidas na internet; de selecionar que notícias ou informações obtidas online mencionar às outras pessoas; quais informações são importantes de uma notícia para divulgar para a família ou para me ajudar a tomar uma decisão etc."
+    },
+    {
+        "question": "47) Eu tenho habilidade para consultar o histórico dos meus dados e de familiares, quando permitido, em sistemas comerciais e governamentais.",
+        "subquestion": "-- Eu tenho habilidade de obter o histórico de meus dados ou de familiares, quando permitido, por exemplo em sistemas de plano de saúde, do governo, em sites de compras, em e-mails recebidos, de sites visitados etc."
+    },
+    {
+        "question": "48) No trabalho ou no lazer eu considero importante ser crítico com informações e conteúdos obtidos online que se relacionam a mim, aos meus familiares e às outras pessoas.",
+        "subquestion": "-- Eu considero importante que todos se questionem se uma informação obtida online, por exemplo, é verdadeira, se sua fonte é confiável, se apresenta métodos ou referências, se está correto etc. Por exemplo, ao buscar artigos ou reportagens sobre assuntos de interesse, quando acessar documentos das pessoas ou outros registros online relacionados."
+    },
+    {
+        "question": "49) Eu sou capaz de desenvolver, selecionar ou aplicar algoritmos computacionais avançados ou de inteligência artificial para realizar tarefas ou produzir relatórios no trabalho, para atividades pessoais ou para melhorar sistemas.",
+        "subquestion": "-- Eu consigo, por exemplo, usar algoritmos de inteligência artificial para gerar relatórios, desenvolver sistemas computacionais de apoio ou por meio de planilhas programadas, usar banco de dados paralelos para organizar análises, usar sites ou softwares de análise que possuem técnicas avançadas para relacionar dados etc."
+    },
+    {
+        "question": "50) Eu tenho habilidade para usar software de produtividade, sistemas e aplicativos que me ajudam a organizar dados digitais pessoais ou de familiares, ou do meu trabalho.",
+        "subquestion": "-- Eu consigo usar sistemas ou outros softwares e aplicativos, em casa ou no trabalho, para juntar dados de pessoas, como por exemplo em relatórios, listagens, administração geral, agendamentos etc."
+    },
+    {
+        "question": "51) Eu compreendo as razões por trás das campanhas falsas ou de desinformação online que surgem no trabalho ou em atividades pessoais.",
+        "subquestion": "-- Eu consigo perceber razões pessoais, corporativas ou empresariais em campanhas de desinformação, por exemplo, com disparos de fake news (notícias falsas), memes políticos, notícias sobre medicamentos sem comprovação científica sendo usados no sistema de saúde etc."
+    },
+    {
+        "question": "52) No trabalho ou no lazer eu tenho conhecimento de diferentes temas e compreendo os benefícios de relacionar dados por meio de técnicas de planilhas, banco de dados, big data, inteligência artificial etc., mas também compreendo os limites e riscos.",
+        "subquestion": "-- No trabalho ou no lazer eu compreendo os benefícios, por exemplo, de correlacionar dados usando planilhas, de pesquisar notícias com auxílio de plataformas que se baseiam em técnicas de inteligência artificial, de buscar relacionamento de compras por meio de big data com redes sociais ou de sites comerciais, configurar equipamentos para reconhecer minha voz e meus comportamentos na internet, relacionar diferentes temas por meio de análise de texto e documentos etc, mas entendo os limites e os riscos."
+    },
+    {
+        "question": "53) Eu entendo o conceito de pensamento computacional e seus possíveis usos nas minhas atividades pessoais e no trabalho.",
+        "subquestion": "-- Eu entendo o que significa aplicar o pensamento computacional no trabalho, usando computadores ou outros equipamentos, ou mesmo usando papel e caneta, por exemplo, ao buscar estratégias para otimizar um fluxo, para organizar um evento ou reunião ou mesmo para criar relatórios e análises de uma situação de saúde etc."
+    },
+    {
+        "question": "54) Eu compreendo as razões para acessar cadastro e demais dados pessoais e de outras pessoas, quando permitido, em sistemas de informação ou em serviços online.",
+        "subquestion": "-- Eu entendo os motivos para acessar dados, por exemplo, do registro de trânsito, do plano de saúde, de agendamentos, de sites de compras online etc."
+    },
+    {
+        "question": "55) Durante minhas atividades eu tenho clara noção sobre ter ou não confiança em uma informação ou conteúdo digital.",
+        "subquestion": "-- Compreendo qual nível de confiança posso colocar quando obtenho informação digital, por exemplo, ao consultar resultado de exame, obter extrato bancário, um histórico de compras, um documento digitalizado, uma notícia em rede social, um vídeo de notícia ou de divulgação de um produto etc."
+    },
+    {
+        "question": "56) Eu entendo como os dados são gerados e processados, como algoritmos de inteligência artificial identificam padrões e como funcionam as técnicas computacionais que auxiliam nas minhas atividades pessoais e no trabalho.",
+        "subquestion": "-- Para melhorar as atividades e tomada de decisão nas minhas atividades pessoais e no trabalho por meio de tecnologias é importante conhecer as técnicas computacionais usadas nos algoritmos de inteligência artificial e no ciclo de vida dos dados, da sua coleta à sua análise."
     }
 ]

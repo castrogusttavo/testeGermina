@@ -40,5 +40,4 @@ A estrutura de pastas e arquivos do projeto "Germina" é organizada da seguinte 
 Contribuições são bem-vindas! Sinta-se à vontade para reportar problemas, sugerir melhorias ou enviar pull requests.
 
 ## Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+[MIT License](https://gusttavocastro.mit-license.org/) - **Gusttavo Castro**

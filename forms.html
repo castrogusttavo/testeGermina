@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário - IDs</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div id="question-container">
+      <div id="question"></div>
+      <div id="subquestion"></div>
+
+      <div class="form-container">
+        <form action="" id="answer-form" class="answerForm-yep">
+          <button type="button" class="answer-button aF-y" value="DT" name="answer">Discordo Totalmente</button>
+          <button type="button" class="answer-button aF-y" value="DP" name="answer">Discordo Parcialmente</button>
+          <button type="button" class="answer-button aF-y" value="CP" name="answer">Concordo Parcialmente</button>
+          <button type="button" class="answer-button aF-y" value="CT" name="answer">Concordo Totalmente</button>
+          
+          <button type="button" class="answer-button aF-n" value="NA" name="answer">Não se aplica a mim</button>
+          <button type="button" class="answer-button aF-n" value="NC" name="answer">Não compreendi</button>
+        </form>
+
+        <button type="submit" id="submit-form" class="aF-y" onclick="window.location.href = 'index.html'">Finalizar teste</button>
+      </div>
+    </div>
+
+    <script src="js/script.js" defer></script>
+  </body>
+</html>

@@ -4,29 +4,11 @@ Germina é um sistema de questionário assíncrono desenvolvido para coletar res
 
 ## Funcionalidades
 
-- Apresenta 10 perguntas com 5 opções de resposta cada.
+- Apresenta 56 perguntas com 6 opções de resposta.
 - Utiliza AJAX para carregar as perguntas de forma assíncrona.
 - As respostas são enviadas ao servidor utilizando o método POST.
 - Design responsivo e amigável ao usuário.
 - Paleta de cores voltada para a área da saúde.
-
-## Organização do Projeto
-
-A estrutura de pastas e arquivos do projeto "Germina" é organizada da seguinte forma:
-
-- `css/`: Contém arquivos CSS para estilização da aplicação.
-- `js/`: Contém arquivos JavaScript para interatividade.
-- `php/`: Contém scripts PHP para manipulação de dados no servidor.
-- `index.html`: Página principal do questionário.
-- `README.md`: Este arquivo de documentação.
-
-## Como Utilizar
-
-1. Clone ou baixe o repositório para o seu ambiente de desenvolvimento.
-2. Abra o arquivo `index.html` em um navegador web.
-3. Responda às perguntas selecionando uma das opções de resposta.
-4. Clique no botão "Próxima Pergunta" para avançar para a próxima pergunta.
-5. As respostas são automaticamente enviadas ao servidor e armazenadas.
 
 ## Tecnologias Utilizadas
 
@@ -34,6 +16,7 @@ A estrutura de pastas e arquivos do projeto "Germina" é organizada da seguinte 
 - CSS3
 - JavaScript (com AJAX)
 - PHP
+- SQL
 
 ## Contribuição
 

@@ -19,10 +19,10 @@ $(document).ready(function () {
       $("#question").html(question);
       $("#subquestion").html(subquestion);
 
-      for (var i = 0; i < questions[currentQuestion].options.length; i++) {
+      for (var i = 0; i < questions[currentQuestion].length; i++) {
         $("#option-" + (i + 1))
           .next()
-          .html(questions[currentQuestion].options[i]);
+          .html(questions[currentQuestion][i]);
       }
     } else {
       // Exibição de mensagem de conclusão quando todas as perguntas forem respondidas
